@@ -2,6 +2,8 @@
 
 This is my capstone project for master of data science degree at University of Sydney under the supervision of Dr Matloob Khushi. The project aims to build an autonomous trading system on the forex market.
 
+https://arxiv.org/pdf/2008.09471v1
+
 
 # Pre-requisite
 - Python 3.6+
